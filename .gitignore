@@ -1,0 +1,15 @@
+node_modules/
+dist/
+release/
+validation/
+*.log
+.env
+.env.*
+!.env.example
+*.local
+models/
+site/downloads/
+validation-*
+__pycache__/
+scripts/publish-svoi.py
+scripts/update-svoi-api.py
