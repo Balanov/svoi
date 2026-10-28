@@ -6,6 +6,8 @@
 
 [Открыть сайт](https://svoi.balanov.pro/) · [Скачать для Windows](https://svoi.balanov.pro/downloads/Svoi-Setup-Windows-1.0.0-x64.exe)
 
+[Исходный код на GitHub](https://github.com/Balanov/svoi) · [GitHub Release 1.0.0](https://github.com/Balanov/svoi/releases/tag/1.0.0)
+
 ![Онбординг «Своего»](docs/images/onboarding.png)
 
 ## Что реализовано
